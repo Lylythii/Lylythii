@@ -1,16 +1,19 @@
-### Hi there 👋
+## What's the story?
 
-<!--
-**Lylythii/Lylythii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Where you can find me:
+- [Website](https://sites.google.com/view/lylythii/home)
+- [Carrd](https://lylythii.carrd.co/)
+- [GitHub IO](https://lylythii.github.io/)
+- [GitHub](https://github.com/Lylythii)
+- [Archive.org](https://archive.org/details/@lylythii)
+- [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
+- [Twitter](https://twitter.com/lylythii)
+- [CurseForge](https://www.curseforge.com/members/lylythii/followers)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Donate:
+- [Patreon](https://www.patreon.com/Lylythii)
+- [Ko-FI](https://ko-fi.com/lylythii)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/lylythii)
+- [PayPal](https://www.paypal.com/paypalme/lylythii)
+
