@@ -1,6 +1,6 @@
 ## What's the story?
 
-## Have you ever lost The Game?
+#### Have you ever lost The Game?
 
 ### Where you can find me:
 - [Website](https://sites.google.com/view/lylythii/home)
