@@ -28,8 +28,7 @@ I have accounts for [Music](https://twitter.com/lylythiimusic), [Art](https://tw
 Most-everything else, including those, will end up on my primary account.
 
 
-### [Where you can find me]("Profiles | Socials | Media | Streaming"
- https://lylythii.github.io/#:~:text=Profiles%20%7C%20Socials%20%7C%20Media%20%7C%20Streaming):
+### [Where you can find me](https://lylythii.github.io/#:~:text=Profiles%20%7C%20Socials%20%7C%20Media%20%7C%20Streaming):
 - [Website](https://sites.google.com/view/lylythii/home)
 - [Carrd](https://lylythii.carrd.co/)
 - [GitHub IO](https://lylythii.github.io/)
