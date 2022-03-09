@@ -24,7 +24,7 @@ You can catch announcements for different live-streams & events too!
 Twitter is the place to find me announcing new art, music, projects & the-like.
 It's also where I will post about different ideas, or updates on life.
 If you're looking for something *specific* on there, you might prefer my content-specific accounts.
-I have accounts for [Music](https://twitter.com/lylythiimusic), [Art](https://twitter.com/lylythii), [Dev-talk](https://twitter.com/lylythiidev), [Mods](https://twitter.com/lylythiimods) & more.
+I have accounts for [Music](https://twitter.com/lylythiimusic), [Art](https://twitter.com/lylythiiart), [Dev-talk](https://twitter.com/lylythiidev), [Mods](https://twitter.com/lylythiimods) & more.
 Most-everything else, including those, will end up on my primary account.
 
 
