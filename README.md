@@ -14,7 +14,7 @@ I make music in my spare time. You can find all that on my [Bandcamp](https://ly
 - Are you looking to just hang out & chat?
 
 #### There's several ways you can reach me!;
-- [Join me on my Discord server!](xsbNuYXBd5)
+- [Join me on my Discord server!](https://discord.gg/xsbNuYXBd5)
 I share all kinds of things in there.
 I talk about the projects I'm working on, & share updates to those projects when necessary.
 I discuss music I'm making, & hobbies of mine.
