@@ -14,7 +14,9 @@ I make music in my spare time. You can find all that on my [Bandcamp](https://ly
 - Are you looking to just hang out & chat?
 
 #### There's several ways you can reach me!;
-- [Join me on my Discord server!](https://discord.gg/xsbNuYXBd5)
+- The quickest method of reaching out to me is via the social platform Discord.
+My username is Lylythii#0001 if you need to add me.
+- You can also [join me on my Discord server!](https://discord.gg/xsbNuYXBd5)
 I share all kinds of things in there.
 I talk about the projects I'm working on, & share updates to those projects when necessary.
 I discuss music I'm making, & hobbies of mine.
