@@ -48,4 +48,3 @@ Most-everything else, including those, will end up on my primary account.
 - [PayPal](https://paypal.me/lylythii)
 - [Throne](https://jointhrone.com/u/lylythii)
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'M4M84T6NR');kofiwidget2.draw();</script> 
