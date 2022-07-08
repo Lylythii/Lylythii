@@ -47,3 +47,5 @@ Most-everything else, including those, will end up on my primary account.
 - [Buy Me A Coffee](https://www.buymeacoffee.com/lylythii)
 - [PayPal](https://paypal.me/lylythii)
 - [Throne](https://jointhrone.com/u/lylythii)
+
+<iframe id='kofiframe' src='https://ko-fi.com/lylythii/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='lylythii'></iframe>
