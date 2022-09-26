@@ -1,7 +1,4 @@
-## What's the story?
-#### Have you ever lost The Game?
-
-Ayo! I'm Lylythii. & I make people lose The Game.
+### Ayo! I'm Lylythii.
 I like to work on ambitious projects, of all kinds.
 I make music in my spare time. You can find all that on my [Bandcamp](https://lylythii.bandcamp.com), [Soundcloud](https://soundcloud.com/lylythii), [YouTube](https://youtube.com/channel/UCH6x-EVyOzVEfHPa_0Jy13A) & the-like.
 
