@@ -2,7 +2,7 @@
 I like to work on ambitious projects, of all kinds.
 I make music in my spare time. You can find all that on my [Bandcamp](https://lylythii.bandcamp.com), [Soundcloud](https://soundcloud.com/lylythii), [YouTube](https://youtube.com/channel/UCH6x-EVyOzVEfHPa_0Jy13A) & the-like.
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lylythii&theme=midnight-purple&show_icons=true)
 
 ### Contacts, Socials & Business Inquiries?;
 - Are you trying to reach me for something?
