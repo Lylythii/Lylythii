@@ -3,7 +3,6 @@ I like to work on ambitious projects, of all kinds.
 I make music in my spare time. You can find all that on my [Bandcamp](https://lylythii.bandcamp.com), [Soundcloud](https://soundcloud.com/lylythii), [YouTube](https://youtube.com/channel/UCH6x-EVyOzVEfHPa_0Jy13A) & the-like.
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lylythii&theme=midnight-purple&show_icons=true)
-![Discord Profile](https://discordapp.com/users/857969485670383647)
 
 ### Contacts, Socials & Business Inquiries?;
 - Are you trying to reach me for something?
@@ -13,7 +12,7 @@ I make music in my spare time. You can find all that on my [Bandcamp](https://ly
 
 #### There's several ways you can reach me!;
 - The quickest method of reaching out to me is via the social platform Discord.
-My username is **Lylythii#0001** if you need to add me.
+My username is **[Lylythii#0001]((https://discordapp.com/users/857969485670383647))** if you need to add me.
 - You can also [join me on my Discord server!](https://discord.gg/xsbNuYXBd5)
 I share all kinds of things in there.
 I talk about the projects I'm working on, & share updates to those projects when necessary.
