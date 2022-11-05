@@ -3,6 +3,7 @@ I like to work on ambitious projects, of all kinds.
 I make music in my spare time. You can find all that on my [Bandcamp](https://lylythii.bandcamp.com), [Soundcloud](https://soundcloud.com/lylythii), [YouTube](https://youtube.com/channel/UCH6x-EVyOzVEfHPa_0Jy13A) & the-like.
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lylythii&theme=midnight-purple&show_icons=true)
+![Discord Profile](https://discordapp.com/users/857969485670383647)
 
 ### Contacts, Socials & Business Inquiries?;
 - Are you trying to reach me for something?
