@@ -4,6 +4,8 @@ I make music in my spare time. You can find all that on my [Bandcamp](https://ly
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lylythii&theme=midnight-purple&show_icons=true)
 
+[![Add Lylythii on Discord](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/add_lylythii_on_discord.png)](https://discord.gg/c79D6ynR)
+
 ### Contacts, Socials & Business Inquiries?;
 - Are you trying to reach me for something?
 - Looking to collaborate on something?
