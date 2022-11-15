@@ -4,6 +4,11 @@ I make music in my spare time. You can find all that on my [Bandcamp](https://ly
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lylythii&theme=midnight-purple&show_icons=true)
 
+[![Join Discord](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/button/discord.png)](https://discord.gg/xsbNuYXBd5)
+[![Join Guilded](https://github.com/Lylythii/lylythii.github.io/blob/main/images/button/guilded.png)](https://www.guilded.gg/Lylythii)
+[![Join Revolt](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/button/revolt.png)](https://rvlt.gg/mhm948gx)
+
+
 [![Add Lylythii on Discord](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/add_lylythii_on_discord.png)](https://discord.gg/vKs4rTqG)
 
 ### Contacts, Socials & Business Inquiries?;
