@@ -1,3 +1,7 @@
+#### Ensure you follow licencing correctly.
+#### Feel free to use these repositories as a reference. 
+#### Thank you.
+
 ### Ayo! I'm Lylythii.
 I like to work on ambitious projects, of all kinds.
 I make music in my spare time. You can find all that on my [Bandcamp](https://lylythii.bandcamp.com), [Soundcloud](https://soundcloud.com/lylythii), [YouTube](https://youtube.com/channel/UCH6x-EVyOzVEfHPa_0Jy13A) & the-like.
