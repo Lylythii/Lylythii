@@ -2,7 +2,7 @@
 
 # Ayo! I'm Lylythii.
 - I like to work on ambitious projects, of all kinds.
-- I make music in my spare time. You can find all that on my [Bandcamp](https://lylythii.bandcamp.com), [Soundcloud](https://soundcloud.com/lylythii), [YouTube](https://youtube.com/channel/UCH6x-EVyOzVEfHPa_0Jy13A) & the-like.
+- I make music in my spare time. You can find all that on my [Bandcamp](https://lylythii.bandcamp.com), [Soundcloud](https://soundcloud.com/lylythii), [YouTube](https://youtube.com/@Lylythii) & the-like.
 - I like to break programs & things opens, use things to their fullest potentials. If it exists, I've probably tried to hack my way into it.
 
 ### Note
