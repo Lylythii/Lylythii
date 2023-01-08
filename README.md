@@ -13,6 +13,8 @@
 ## Statistics
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lylythii&theme=midnight-purple&show_icons=true)
 
+![:name](https://count.getloli.com/get/@Lylythii)
+
 ## Contacts, Socials & Business Inquiries?;
 - Are you trying to reach me for something?
 - Looking to collaborate on something?
