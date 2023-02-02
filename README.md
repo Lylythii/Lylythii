@@ -62,6 +62,3 @@ Most-everything else, including those, will end up on my primary account.
 [![Join Guilded](https://github.com/Lylythii/lylythii.github.io/blob/main/images/button/guilded.png)](https://www.guilded.gg/Lylythii)
 [![Join Revolt](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/button/revolt.png)](https://rvlt.gg/mhm948gx)
 [![Join TFC:Network Discord](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/button/tfc_network.png)](https://discord.gg/mTnrBmGMg9)
-
-
-[![Add Lylythii on Discord](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/add_lylythii_on_discord.png)](https://discord.gg/vKs4rTqG)
