@@ -58,6 +58,8 @@ Most-everything else, including those, will end up on my primary account.
 
 
 ## Discord, Guilded, Revolt
+[![Discord](https://discordapp.com/api/guilds/872021270135439381/widget.png?style=banner2)](https://discord.gg/xsbNuYXBd5)
+
 [![Join Discord](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/button/discord.png)](https://discord.gg/xsbNuYXBd5)
 [![Join Guilded](https://github.com/Lylythii/lylythii.github.io/blob/main/images/button/guilded.png)](https://www.guilded.gg/Lylythii)
 [![Join Revolt](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/button/revolt.png)](https://rvlt.gg/mhm948gx)
