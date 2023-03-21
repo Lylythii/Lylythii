@@ -41,7 +41,7 @@ Most-everything else, including those, will end up on my primary account.
 - [Archive.org](https://archive.org/details/@lylythii)
 - [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
 - [Twitter](https://twitter.com/lylythii)
-- [CurseForge](https://www.curseforge.com/members/lylythii/followers)
+- [CurseForge](https://www.curseforge.com/members/lily/followers)
 
 
 ## Care to Donate?;
