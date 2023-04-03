@@ -1,9 +1,9 @@
 
 
 ## Introduction
-- I like to work on ambitious projects, of all kinds.
+- I like to work on ambitious projects, of all kinds. | Primarily [TFC:TFF, a Minecraft total overhaul project](https://github.com/TerraFirmaCraft-The-Final-Frontier).
 - I make music in my spare time. You can find all that on my [Bandcamp](https://lylythii.bandcamp.com), [Soundcloud](https://soundcloud.com/lylythii), [YouTube](https://youtube.com/@Lylythii) & the-like.
-- I like to break programs & things opens, use things to their fullest potentials. If it exists, I've probably tried to hack my way into it.
+- I like to break programs & things open, use things to their fullest potentials. If it exists, I've probably tried to hack my way into it.
 
 ## Statistics
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lylythii&theme=midnight-purple&show_icons=true)
