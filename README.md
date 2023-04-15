@@ -54,4 +54,4 @@ You can catch announcements for different live-streams & events too!
 [![Join TFC:TFF Discord](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/button/tff.png)](https://discord.gg/EeGWgbwwrJ)
 
 ## Suggestions
-- [GitHub Repositories I've made or contributed to](https://github.com/stars/Lylythii/lists/suggested)
+- [GitHub Repositories I've made, contributed to, or just make use of, that I think are nice.](https://github.com/stars/Lylythii/lists/suggested)
