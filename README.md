@@ -26,22 +26,21 @@ I discuss music I'm making, & hobbies of mine.
 You can catch announcements for different live-streams & events too!
 
 ## [Where you can find me](https://lylythii.github.io/#:~:text=Profiles%20%7C%20Socials%20%7C%20Media%20%7C%20Streaming):
-- [Website](https://sites.google.com/view/lylythii/home)
-- [Carrd](https://lylythii.carrd.co/)
-- [GitHub IO](https://lylythii.github.io/)
-- [GitHub](https://github.com/Lylythii)
-- [Archive.org](https://archive.org/details/@lylythii)
-- [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
-- [Twitter](https://twitter.com/lylythii)
-- [CurseForge](https://www.curseforge.com/members/lily/followers)
+- [Carrd // Lylythii](https://lylythii.carrd.co)
+- [GitHub IO // Lylythii](https://lylythii.github.io)
+- [GitHub // Lylythii](https://github.com/Lylythii)
+- [Archive.org // Lylythii](https://archive.org/details/@lylythii)
+- [Stack Overflow // Lylythii](https://stackoverflow.com/users/16361766/lylythii)
+- [CurseForge // Lily](https://www.curseforge.com/members/lily/projects)
+- [Modrinth // Lylythii](https://www.modrinth.com/lylythii)
 
 
 ## Care to Donate?;
-- [Patreon](https://www.patreon.com/Lylythii)
-- [Ko-FI](https://ko-fi.com/lylythii)
-- [Buy Me A Coffee](https://www.buymeacoffee.com/lylythii)
-- [PayPal](https://paypal.me/lylythii)
-- [Throne](https://jointhrone.com/u/lylythii)
+- [Patreon // Lylythii](https://www.patreon.com/Lylythii)
+- [Ko-FI // Lylythii](https://ko-fi.com/lylythii)
+- [Buy Me A Coffee // Lylythii](https://www.buymeacoffee.com/lylythii)
+- [PayPal // Lylythii](https://paypal.me/lylythii)
+- [Throne // Lylythii](https://jointhrone.com/u/lylythii)
 
 
 ## Discord, Guilded, Revolt
