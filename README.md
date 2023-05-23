@@ -56,9 +56,9 @@ You can catch announcements for different live-streams & events too!
 ## Discord, Guilded, Revolt
 <details>
 
-[![Discord](https://discordapp.com/api/guilds/872021270135439381/widget.png?style=banner2)](https://discord.gg/xsbNuYXBd5)
+[![Discord](https://discordapp.com/api/guilds/872021270135439381/widget.png?style=banner2)](https://discord.gg/lylythii)
 
-[![Join Discord](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/button/discord.png)](https://discord.gg/xsbNuYXBd5)
+[![Join Discord](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/button/discord.png)](https://discord.gg/lylythii)
 [![Join Guilded](https://github.com/Lylythii/lylythii.github.io/blob/main/images/button/guilded.png)](https://www.guilded.gg/Lylythii)
 [![Join Revolt](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/button/revolt.png)](https://rvlt.gg/mhm948gx)
 [![Join TFC:Network Discord](https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/images/button/tfc_network.png)](https://discord.gg/mTnrBmGMg9)
