@@ -43,6 +43,9 @@ You can catch announcements for different live-streams & events too!
 
 </details>
 
+## In Need of Help. <3
+- [Go Fund Me | Help Moving Out](https://gofund.me/fd5308a8)
+
 ## Care to Donate?;
 <details>
 
