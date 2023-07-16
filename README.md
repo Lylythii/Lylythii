@@ -37,8 +37,8 @@ You can catch announcements for different live-streams & events too!
 - [GitHub // Lylythii](https://github.com/Lylythii)
 - [Archive.org // Lylythii](https://archive.org/details/@lylythii)
 - [Stack Overflow // Lylythii](https://stackoverflow.com/users/16361766/lylythii)
-- [CurseForge // Lily](https://www.curseforge.com/members/lily/projects) (Currently broken due to a username exploit on CurseForge. 🤫)
-- [CurseForge // Lylythii](https://www.curseforge.com/members/CurseForgeIsBroken/projects) (Mods should be viewable here for now.)
+- [CurseForge // Lily](https://www.curseforge.com/members/lily) (Currently broken due to a username exploit on CurseForge. 🤫)
+- [CurseForge // Lylythii](https://www.curseforge.com/members/lilu/projects) (Mods should be viewable here for now.)
 - [Modrinth // Lylythii](https://www.modrinth.com/user/lylythii)
 
 </details>
