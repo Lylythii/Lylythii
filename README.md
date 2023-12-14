@@ -20,8 +20,8 @@
 
 ### There's several ways you can reach me!;
 - The quickest method of reaching out to me is via the social platform Discord.
-My username is **[Lylythii#0001](https://discord.gg/vKs4rTqG)** if you need to add me.
-- You can also [join me on my Discord server!](https://discord.gg/xsbNuYXBd5)
+My username is **[@lylythii](https://discordacc.lylythii.com)** if you need to add me.
+- You can also [join me on my Discord server!](https://discord.lylythii.com)
 I share all kinds of things in there.
 I talk about the projects I'm working on, & share updates to those projects when necessary.
 I discuss music I'm making, & hobbies of mine.
@@ -32,14 +32,13 @@ You can catch announcements for different live-streams & events too!
 ## [Where you can find me](https://lylythii.github.io/#:~:text=Profiles%20%7C%20Socials%20%7C%20Media%20%7C%20Streaming):
 <details>
 
-- [Carrd // Lylythii](https://lylythii.carrd.co)
-- [GitHub IO // Lylythii](https://lylythii.github.io)
-- [GitHub // Lylythii](https://github.com/Lylythii)
-- [Archive.org // Lylythii](https://archive.org/details/@lylythii)
-- [Stack Overflow // Lylythii](https://stackoverflow.com/users/16361766/lylythii)
-- [CurseForge // Lily](https://www.curseforge.com/members/lily) (Currently broken due to a username exploit on CurseForge. 🤫)
-- [CurseForge // Lily/Projects](https://www.curseforge.com/members/lily/projects) (Mods should be viewable here for now.)
-- [Modrinth // Lylythii](https://www.modrinth.com/user/lylythii)
+### Websites (Contains More Information)
+- [Website // Lylythii](https://lylythii.com)
+- [About Me // Lylythii](https://about.lylythii.com)
+- [GitHub // Lylythii](https://github.Lylythii.com)
+### Minecraft Mods
+- [CurseForge // Lily](https://curseforge.lylythii.com)
+- [Modrinth // Lylythii](https://modrinth.lylythii.com)
 
 </details>
 
@@ -49,11 +48,10 @@ You can catch announcements for different live-streams & events too!
 ## Care to Donate?;
 <details>
 
-- [Patreon // Lylythii](https://www.patreon.com/Lylythii)
-- [Ko-FI // Lylythii](https://ko-fi.com/lylythii)
-- [Buy Me A Coffee // Lylythii](https://www.buymeacoffee.com/lylythii)
-- [PayPal // Lylythii](https://paypal.me/lylythii)
-- [Throne // Lylythii](https://jointhrone.com/u/lylythii)
+- [Patreon // Lylythii](https://patreon.lylythii.com)
+- [Ko-Fi // Lylythii](https://kofi.lylythii.com)
+- [Buy Me A Coffee // Lylythii](https://buymeacoffee.lylythii.com)
+- [PayPal // Lylythii](https://paypal.lylythii.com)
 
 </details>
 
