@@ -33,7 +33,7 @@ You can catch announcements for different live-streams & events too!
 <details>
 
 ### Websites (Contains More Information)
-- [Website // Lylythii](http://lylythii.com)
+- [Website // Lylythii](https://lylythii.com)
 - [About Me // Lylythii](http://about.lylythii.com)
 - [GitHub // Lylythii](http://github.Lylythii.com)
 ### Minecraft Mods
