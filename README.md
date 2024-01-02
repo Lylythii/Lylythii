@@ -20,8 +20,8 @@
 
 ### There's several ways you can reach me!;
 - The quickest method of reaching out to me is via the social platform Discord.
-My username is **[@lylythii](https://discordacc.lylythii.com)** if you need to add me.
-- You can also [join me on my Discord server!](https://discord.lylythii.com)
+My username is **[@lylythii](http://discordacc.lylythii.com)** if you need to add me.
+- You can also [join me on my Discord server!](http://discord.lylythii.com)
 I share all kinds of things in there.
 I talk about the projects I'm working on, & share updates to those projects when necessary.
 I discuss music I'm making, & hobbies of mine.
@@ -33,12 +33,12 @@ You can catch announcements for different live-streams & events too!
 <details>
 
 ### Websites (Contains More Information)
-- [Website // Lylythii](https://lylythii.com)
-- [About Me // Lylythii](https://about.lylythii.com)
-- [GitHub // Lylythii](https://github.Lylythii.com)
+- [Website // Lylythii](http://lylythii.com)
+- [About Me // Lylythii](http://about.lylythii.com)
+- [GitHub // Lylythii](http://github.Lylythii.com)
 ### Minecraft Mods
-- [CurseForge // Lily](https://curseforge.lylythii.com)
-- [Modrinth // Lylythii](https://modrinth.lylythii.com)
+- [CurseForge // Lily](http://curseforge.lylythii.com)
+- [Modrinth // Lylythii](http://modrinth.lylythii.com)
 
 </details>
 
@@ -48,10 +48,10 @@ You can catch announcements for different live-streams & events too!
 ## Care to Donate?;
 <details>
 
-- [Patreon // Lylythii](https://patreon.lylythii.com)
-- [Ko-Fi // Lylythii](https://kofi.lylythii.com)
-- [Buy Me A Coffee // Lylythii](https://buymeacoffee.lylythii.com)
-- [PayPal // Lylythii](https://paypal.lylythii.com)
+- [Patreon // Lylythii](http://patreon.lylythii.com)
+- [Ko-Fi // Lylythii](http://kofi.lylythii.com)
+- [Buy Me A Coffee // Lylythii](http://buymeacoffee.lylythii.com)
+- [PayPal // Lylythii](http://paypal.lylythii.com)
 
 </details>
 
